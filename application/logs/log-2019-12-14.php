@@ -211,3 +211,23 @@ ERROR - 2019-12-14 03:24:35 --> Severity: Notice --> Undefined variable: comment
 ERROR - 2019-12-14 03:25:03 --> Severity: Notice --> Undefined index: banner_contact /var/www/html/silotif/application/views/admin/view_setting.php 276
 ERROR - 2019-12-14 03:25:36 --> Severity: Notice --> Undefined index: banner_contact /var/www/html/silotif/application/views/admin/view_setting.php 276
 ERROR - 2019-12-14 03:26:04 --> Severity: Notice --> Undefined index: banner_contact /var/www/html/silotif/application/views/admin/view_setting.php 269
+ERROR - 2019-12-14 03:39:29 --> Severity: Notice --> Undefined variable: comment /var/www/html/silotif/application/views/view_header.php 267
+ERROR - 2019-12-14 03:51:38 --> 404 Page Not Found: User/register
+ERROR - 2019-12-14 03:52:18 --> Severity: error --> Exception: Unable to locate the model you have specified: User_model /var/www/html/silotif/system/core/Loader.php 348
+ERROR - 2019-12-14 03:53:05 --> Severity: Notice --> Undefined property: User::$user_model /var/www/html/silotif/application/controllers/User.php 16
+ERROR - 2019-12-14 03:53:05 --> Severity: error --> Exception: Call to a member function getAlluser() on null /var/www/html/silotif/application/controllers/User.php 16
+ERROR - 2019-12-14 03:53:06 --> Severity: Notice --> Undefined property: User::$user_model /var/www/html/silotif/application/controllers/User.php 16
+ERROR - 2019-12-14 03:53:06 --> Severity: error --> Exception: Call to a member function getAlluser() on null /var/www/html/silotif/application/controllers/User.php 16
+ERROR - 2019-12-14 03:53:57 --> Severity: error --> Exception: Unable to locate the model you have specified: Model_user.php /var/www/html/silotif/system/core/Loader.php 348
+ERROR - 2019-12-14 03:54:02 --> Severity: Notice --> Undefined property: User::$user_model /var/www/html/silotif/application/controllers/User.php 16
+ERROR - 2019-12-14 03:54:02 --> Severity: error --> Exception: Call to a member function getAlluser() on null /var/www/html/silotif/application/controllers/User.php 16
+ERROR - 2019-12-14 03:55:38 --> Severity: Notice --> Undefined property: User::$user_model /var/www/html/silotif/application/controllers/User.php 16
+ERROR - 2019-12-14 03:55:38 --> Severity: error --> Exception: Call to a member function getAlluser() on null /var/www/html/silotif/application/controllers/User.php 16
+ERROR - 2019-12-14 03:55:39 --> Severity: Notice --> Undefined property: User::$user_model /var/www/html/silotif/application/controllers/User.php 16
+ERROR - 2019-12-14 03:55:39 --> Severity: error --> Exception: Call to a member function getAlluser() on null /var/www/html/silotif/application/controllers/User.php 16
+ERROR - 2019-12-14 03:56:31 --> Severity: Notice --> Undefined property: User::$user_model /var/www/html/silotif/application/controllers/User.php 16
+ERROR - 2019-12-14 03:56:31 --> Severity: error --> Exception: Call to a member function getAlluser() on null /var/www/html/silotif/application/controllers/User.php 16
+ERROR - 2019-12-14 03:56:32 --> Severity: Notice --> Undefined property: User::$user_model /var/www/html/silotif/application/controllers/User.php 16
+ERROR - 2019-12-14 03:56:32 --> Severity: error --> Exception: Call to a member function getAlluser() on null /var/www/html/silotif/application/controllers/User.php 16
+ERROR - 2019-12-14 03:56:54 --> Query error: Table 'dblom.user' doesn't exist - Invalid query: SELECT *
+FROM `user`

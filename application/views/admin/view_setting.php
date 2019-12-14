@@ -105,8 +105,6 @@ if (!$this->session->userdata('id')) {
 						</div>
 						<?php echo form_close(); ?>
 					</div>
-
-
 					<div class="tab-pane" id="tab_top_bar">
 						<?php echo form_open(base_url() . 'admin/setting/update', array('class' => 'form-horizontal')); ?>
 						<div class="box box-info">
